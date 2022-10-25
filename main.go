@@ -12,8 +12,8 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/ONSdigital/dp-mongodb-in-memory/download"
-	"github.com/ONSdigital/dp-mongodb-in-memory/monitor"
+	"github.com/tobocop2/dp-mongodb-in-memory/download"
+	"github.com/tobocop2/dp-mongodb-in-memory/monitor"
 	"github.com/ONSdigital/log.go/v2/log"
 )
 
